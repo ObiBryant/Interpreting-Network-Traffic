@@ -56,3 +56,6 @@ Observe the wiped disk:  <br/>
 @@ text in purple (and bold)@@
 ```
 --!>
+
+
+https://github.com/ObiBryant/Interpreting-Network-Traffic/assets/143296412/7103534e-c6d6-4c99-8064-3c942276f606
