@@ -16,7 +16,7 @@ This project consists of capturing network traffic using various packet sniffers
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Capturing network traffic: <br/>
+1. Capturing network traffic: <br/>
 
 https://github.com/ObiBryant/Interpreting-Network-Traffic/assets/143296412/4010068f-7cd8-447b-afd1-b9b581166543
 
@@ -40,7 +40,7 @@ https://user-images.githubusercontent.com/143296412/264516785-a872d95f-b123-4470
 
 <br />
 <br />
-Using TCPdump to intercept HTTP network traffic (viewing using wireshark):  <br/>
+2. Using TCPdump to intercept HTTP network traffic (viewing using wireshark):  <br/>
 
 https://github.com/ObiBryant/Interpreting-Network-Traffic/assets/143296412/772ba1c0-13f2-49c5-8a4d-1a990f51281a
 
